@@ -64,13 +64,13 @@ Log in to WHM on the existing mail server.
 #### **2.3. Add Firewall Rule**
 
 - **Port**: `587` (or `25, 587, 465` if using multiple ports)
-- **IP Address/CIDR**: `95.216.7.15` (replace with your new server’s IP)
+- **IP Address/CIDR**: `90.206.8.15` (replace with your new server’s IP)
 - **Protocol**: `TCP`
 - **Action**: `Allow`
 
 - **Example**:
   - Port: `587`
-  - IP Address/CIDR: `95.216.7.15`
+  - IP Address/CIDR: `90.206.8.15`
   - Protocol: `TCP`
   - Action: `Allow`
 
